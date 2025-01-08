@@ -1,0 +1,6 @@
+Pencapaian di 2024:
+1.Bisa mempelajari javascript
+2.Bisa belajar html
+3.Bisa belajar css
+4.Bisa belajar bootstrap
+5.Bisa belajar database(mysql)
